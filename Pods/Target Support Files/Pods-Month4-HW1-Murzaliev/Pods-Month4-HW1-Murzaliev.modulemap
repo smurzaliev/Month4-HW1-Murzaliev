@@ -1,0 +1,6 @@
+framework module Pods_Month4_HW1_Murzaliev {
+  umbrella header "Pods-Month4-HW1-Murzaliev-umbrella.h"
+
+  export *
+  module * { export * }
+}
